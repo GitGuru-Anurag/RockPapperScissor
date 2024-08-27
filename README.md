@@ -1,2 +1,2 @@
 # RockPapperScissor
-This is my Very First Gif repository.
+This is my Very First Git repository.
